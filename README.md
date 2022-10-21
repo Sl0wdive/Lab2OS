@@ -30,7 +30,7 @@ YAML використовує цілісну модель даних. Немає
 ![image](https://user-images.githubusercontent.com/74788692/197222716-364dd4a1-4264-4121-a330-f3847a26d343.png)<br>
 Посиллання: https://hub.docker.com/repository/docker/sl0wconnection/lab3os
 
-4) Скачати Docker Image когось із групи і розвернути в себе контейнер з HTML сторінкою на порті 8086 ззовні.
+4) Скачати Docker Image когось із групи і розвернути в себе контейнер з HTML сторінкою на порті 8086 ззовні.<br>
 Я використав Image одногрупника Михайла Ільканича: https://hub.docker.com/r/ineedsomem1lk/labwork3 <br>
 ![image](https://user-images.githubusercontent.com/74788692/197224185-230d16d8-cccb-48b5-a669-734628c2187e.png)
 ![image](https://user-images.githubusercontent.com/74788692/197224620-b9ef7a70-579b-438c-b57f-d32668c9a2cf.png)
