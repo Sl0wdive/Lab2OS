@@ -17,5 +17,5 @@ Plan:
 ![image](https://user-images.githubusercontent.com/74788692/201548434-4b226de0-33c2-46e4-9e5c-67765323839b.png)
 4) Після інсталу apache за допомогою ключа підключився до віддаленного комп'ютеру і замінив /var/www/html/index.html на свою розмітку<br/>
 ![image](https://user-images.githubusercontent.com/74788692/201548578-323757d8-baab-4ec2-89b8-8d5e9acd7c00.png)
-![image](https://user-images.githubusercontent.com/74788692/201548587-7af6f357-8cad-47bd-be44-a5a912a73012.png)
+![image](https://user-images.githubusercontent.com/74788692/201548587-7af6f357-8cad-47bd-be44-a5a912a73012.png)<br/>
 Висновок: на цій лабораторній роботі мав змогу почати працювати з Terraform та AWS.
