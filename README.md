@@ -1,5 +1,6 @@
 # Лабораторна Робота 4
 # Terraform
+# Виконав студент ІПЗ 1. 3 курсу Гобона В.М.
 
 Plan:
 1. Create one instance (image: ubuntu 20.04) 
